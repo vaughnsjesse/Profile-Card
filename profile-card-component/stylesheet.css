@@ -75,5 +75,6 @@
     margin: 0px;
   }
   div.attribution {
-      background-position: bottom right;
+      position: fixed;
+      bottom: 10px;
   }
